@@ -1,0 +1,24 @@
+ {
+     "name": "pka-forms-server",
+     "version": "0.0.1-beta.1",
+     "description": "Previously Know as Forms Server Side",
+     "main": "server.js",
+     "homepage": "https://github.com/apollo-agit/pka-forms-server#readme",
+     "repository": {
+         "type": "git",
+         "url": "git+https://github.com/apollo-agit/pka-forms-server.git"
+     },
+     "keywords": [
+         "forms"
+     ],
+     "author": "Ian Hamilton",
+     "license": "ISC",
+     "bugs": {
+         "url": "https://github.com/apollo-agit/pka-forms-server/issues"
+     },
+     "dependencies": {
+         "body-parser": "^1.14.1",
+         "express": "^4.13.3",
+         "mongoose": "^4.1.12"
+     }
+ }
